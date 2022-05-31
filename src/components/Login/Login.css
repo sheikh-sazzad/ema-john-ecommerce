@@ -1,0 +1,38 @@
+.login-body{
+    text-align:center;
+    margin-top:100px;
+}
+.login-text{
+    color: lightsalmon;
+}
+.input-field{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+
+}
+.login-button{
+    background-color: lightsalmon;
+    margin: 10px;
+    padding: 5px;
+    width: 60px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    color: white;
+    font-style: italic;
+    font-weight: 600;
+    cursor: pointer;
+}
+.google-signin{
+        background-color: goldenrod;
+        margin: 10px;
+        padding: 5px;
+        width: 80px;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        font-style: italic;
+        font-weight: 600;
+        cursor: pointer;
+}
